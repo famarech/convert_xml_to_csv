@@ -87,7 +87,39 @@
         <OTHERS>
             <SCORE>17/20</SCORE>
             <SIZE>1.85</SIZE>
-            <PUNISHMENTS>1<PUNISHMENTS>
+            <PUNISHMENTS>1</PUNISHMENTS>
+        </OTHERS>
+    </HUMAN>
+	    <HUMAN>
+        <IDENTITY>
+            <FIRSTNAME>Helene</FIRSTNAME>
+            <LASTNAME>Perret</LASTNAME>
+        </IDENTITY>
+        <SPECIFICATIONS>
+            <TYPE>Student</TYPE>
+            <CLASS>Premiere</CLASS>
+            <AGE>17</AGE>
+        </SPECIFICATIONS>
+        <OTHERS>
+            <SCORE>17.5/20</SCORE>
+            <SIZE>1.90</SIZE>
+            <PUNISHMENTS>1</PUNISHMENTS>
+        </OTHERS>
+    </HUMAN>
+	    <HUMAN>
+        <IDENTITY>
+            <FIRSTNAME>Sebastien</FIRSTNAME>
+            <LASTNAME>Ferrand</LASTNAME>
+        </IDENTITY>
+        <SPECIFICATIONS>
+            <TYPE>Student</TYPE>
+            <CLASS>Terminale</CLASS>
+            <AGE>19</AGE>
+        </SPECIFICATIONS>
+        <OTHERS>
+            <SCORE>12/20</SCORE>
+            <SIZE>1.85</SIZE>
+            <PUNISHMENTS>1</PUNISHMENTS>
         </OTHERS>
     </HUMAN>
 </DATA>
