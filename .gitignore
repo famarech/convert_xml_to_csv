@@ -1,0 +1,9 @@
+# commentaires
+
+/build
+/dist
+/__pycache__
+*.spec
+*.swp
+*.exe
+.~lock.*
