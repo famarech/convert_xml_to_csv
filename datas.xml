@@ -50,7 +50,6 @@
             <NICKNAME>Nico</NICKNAME>
         </IDENTITY>
         <SPECIFICATIONS>
-            <TYPE>Student</TYPE>
             <CLASS>Terminal</CLASS>
             <AGE>18</AGE>
         </SPECIFICATIONS>
@@ -103,7 +102,6 @@
         <OTHERS>
             <SCORE>17.5/20</SCORE>
             <SIZE>1.90</SIZE>
-            <PUNISHMENTS>1</PUNISHMENTS>
         </OTHERS>
     </HUMAN>
 	    <HUMAN>
@@ -119,7 +117,7 @@
         <OTHERS>
             <SCORE>12/20</SCORE>
             <SIZE>1.85</SIZE>
-            <PUNISHMENTS>1</PUNISHMENTS>
+            <PUNISHMENTS>3</PUNISHMENTS>
         </OTHERS>
     </HUMAN>
 </DATA>
