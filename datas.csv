@@ -1,9 +1,0 @@
-TYPE;SUBJECT;AGE;OTHERS;DATA;CLASS;PUNISHMENTS;NICKNAME;SALARY;LASTNAME;IDENTITY;SPECIFICATIONS;SIZE;HUMAN;SCORE;FIRSTNAME
-Professor;History;44;;;;;;2000;Durand;;;;;;Jean
-Professor;English;45;;;;;El Professor;1800;Dupond;;;;;;Marc
-Professor;French;42;;;;;;;Dupond;;;1.65;;;Estelle
-;;18;;;Terminal;;Nico;;Marin;;;1.80;;16/20;Nicolas
-Student;;17;;;Terminal;;Nathou;;Dereck;;;;;18/20;Nathalie
-Student;;17;;;Premiere;1;;;Perret;;;1.85;;17/20;Bastien
-Student;;17;;;Premiere;;;;Perret;;;1.90;;17.5/20;Helene
-Student;;19;;;Terminale;3;;;Ferrand;;;1.85;;12/20;Sebastien
