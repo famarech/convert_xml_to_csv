@@ -49,10 +49,10 @@ l = erase_duplicate(MARKS)
 for each in CSV:
     print(each)
 
-##datas = [l]
-##for i in range(n):
-##    datas.append([0]*len(l))
-##print(datas)
+datas = [l]
+for i in range(n):
+   datas.append([0]*len(l))
+print(datas)
 
 # ne reste plus qu'à ranger les informations au bon endroit dans le tableau
 
